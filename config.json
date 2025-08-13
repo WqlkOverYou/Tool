@@ -1,0 +1,20 @@
+{
+  "token": "MTM5OTQwOTM5Mzg3OTA5MzM1OA.G-Myuc.AhtVesQrUtnEfte6w_87FmGMTyQR1JI7w523LE",
+  "clientId": "1399409393879093358",
+  "guildId": "1399411915268030629",
+  "supportChannelId": "1399412298346664139",
+  "qaTesterRoleId": "1399500784214867999",
+  "mutedRoleId": "1399412090011123742",
+  "logChannelId": "1399441483433508874",
+  "LeadQualityAssuranceRoleId": "1399473107063799830",
+  "OnlyBOTAdmin": "740987792854876230",
+  "bugForumChannelId": "1399524878201389126",
+  "qaNotifyGuildId": "432924088156291072",
+  "qaNotifyChannelId": "1404883726395244776",
+  "qaTesterRoleIdPrivate": "1404891230273278033",
+  "LeadQualityAssuranceRoleIdPrivate": "1223405685954580601",
+  "playfabTitleId": "8f0c2",
+  "playfabSecret": "BDUNKZAGJQKNR1JJNZ79F1Y36A41EPMH7WR4BI16ETHZUP6BM6",
+  "steamWebApiKey": "BD2113235FF8B8ADF426EFF5E774311D",
+  "playfabApprovalChannelId": "1405226611653087292"
+}
